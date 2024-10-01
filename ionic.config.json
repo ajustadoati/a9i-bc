@@ -1,0 +1,7 @@
+{
+  "name": "a9i-bc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
